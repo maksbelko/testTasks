@@ -1,0 +1,9 @@
+﻿  LinkedList.cpp
+  Node.cpp
+  PointOnSPhere.cpp
+  UseSphere.cpp
+C:\Users\38095\source\repos\SphereTask\SphereTask\UseSphere.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\38095\source\repos\SphereTask\SphereTask\UseSphere.cpp(83,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\38095\source\repos\SphereTask\SphereTask\LinkedList.cpp(224): warning C4715: LinkedList::operator[]: значение возвращается не при всех путях выполнения
+  SphereTask.vcxproj -> C:\Users\38095\source\repos\SphereTask\Debug\SphereTask.exe
